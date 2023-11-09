@@ -1,0 +1,7 @@
+# git ignore
+
+# ignore pycache directories
+**/__pychache__/
+
+# ignore swap files
+**/*.swp
