@@ -45,7 +45,7 @@ def scalene(sides):
 def is_triangle(sides):
     """
 
-    :pa;am sides: int - the list of sides to test
+    :param sides: int - the list of sides to test
     :return: bool - is a valid triangle
     """
 
